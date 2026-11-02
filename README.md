@@ -8,7 +8,7 @@
 
 *Turning ideas into reliable and meaningful software.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulnar-mammadli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulnar-mammadli-4730b3177/)
 ![Profile Views](https://komarev.com/ghpvc/?username=gulnar-mammadli&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS)
 
 </div>
@@ -80,7 +80,7 @@
 
 I'm always happy to connect with fellow developers and exchange ideas!
 
-<a href="https://linkedin.com/in/gulnar-mammadli">
+<a href="https://www.linkedin.com/in/gulnar-mammadli-4730b3177/">
 <img src="https://img.shields.io/badge/LinkedIn-Gulnar%20Mammadli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
